@@ -39,3 +39,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+- ![image](https://github.com/user-attachments/assets/a89de105-b711-43c9-9715-dab9cb54212c)
+
